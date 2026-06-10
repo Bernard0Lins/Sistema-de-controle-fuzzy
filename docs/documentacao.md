@@ -3,8 +3,7 @@
 
 **Disciplina**: Inteligência Artificial e Computacional  
 **Modalidade**: Opção B — Aplicação/Produto  
-**Semestre**: 01/2026  
-**Turma**: CC5MA  
+**Turma**: CC5NA  
 
 ---
 
