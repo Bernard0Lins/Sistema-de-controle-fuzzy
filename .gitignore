@@ -1,0 +1,68 @@
+# Ambiente Virtual
+venv/
+env/
+ENV/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Gráficos e resultados temporários
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.csv
+!data/cenarios_teste.csv
+!experimentos/resultados_detalhados.csv
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Arquivos de sistema
+.env
+.env.local
+*.log
+thumbs.db
+
+# Extensões específicas do projeto
+docs/grafico_*.png
+experimentos/grafico_*.png
+experimentos/resultados_detalhados.csv

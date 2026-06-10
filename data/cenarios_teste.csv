@@ -1,0 +1,7 @@
+id,stamina,tempo_combate,penalidade_esperada,descricao
+1,90,5,10,"Stamina alta, combate curto - penalidade leve"
+2,20,50,80,"Stamina baixa, combate longo - penalidade forte"
+3,50,30,50,"Stamina média, combate moderado - penalidade moderada"
+4,40,15,35,"Fronteira stamina baixa-média com combate curto"
+5,70,45,55,"Fronteira stamina média-alta com combate longo"
+6,10,60,90,"Crítico: stamina muito baixa e combate longo"
