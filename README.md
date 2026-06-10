@@ -1,9 +1,8 @@
 # Sistema Fuzzy de Avaliação de Fadiga de Personagem em Jogos
 
-**Disciplina**: Inteligência Artificial e Computacional (0700M8)  
-**Turma**: CC5MA | **Semestre**: 01/2026  
+**Disciplina**: Inteligência Artificial e Computacional 
+**Turma**: CC5NA 
 **Modalidade**: Opção B — Aplicação/Produto  
-**Repositório GitHub**: [INSERIR LINK]
 
 ---
 
@@ -11,10 +10,8 @@
 
 | Nome | Matrícula |
 |------|-----------|
-| [Nome 1] | [Matrícula] |
-| [Nome 2] | [Matrícula] |
-| [Nome 3] | [Matrícula] |
-| [Nome 4] | [Matrícula] |
+| [Bernardo Lins Bentes] | [24070315] |
+
 
 ---
 
@@ -59,12 +56,8 @@ PROJETO-IA/
 │   └── cenarios_teste.csv  # 6 cenários de teste com entradas e saída esperada
 ├── docs/
 │   ├── documentacao.md     # Documentação técnica completa
-│   ├── grafico_pertinencias.png  # Gráfico das funções de pertinência
-│   └── grafico_superficie.png    # Superfície de controle 3D
 ├── experimentos/
 │   ├── resultados_detalhados.csv # Resultados gerados pelos experimentos
-│   ├── grafico_comparacao.png    # Penalidades esperadas vs. obtidas
-│   └── grafico_divergencia.png   # Divergência absoluta por cenário
 ├── src/
 │   └── fuzzy_fadiga.py     # Núcleo do sistema: universos, pertinências, regras, inferência
 ├── tests/
@@ -191,7 +184,6 @@ print(f"Categoria: {resultado['categoria']}")          # Forte
 |-----------|-----------|-----------------|-------------------|
 | Claude (Anthropic) | Estrutura base de código, funções fuzzy, testes e documentação | "Adapte o sistema fuzzy para o tema de fadiga de personagem em jogos" | Todo o código foi revisado, executado e validado pelos integrantes |
 
-O uso de IA generativa foi declarado conforme exigido. Todo o material no repositório foi compreendido, testado e validado pela equipe, que assume responsabilidade integral pelo conteúdo entregue.
 
 ---
 
@@ -201,7 +193,3 @@ O uso de IA generativa foi declarado conforme exigido. Todo o material no reposi
 - Zadeh, L. A. (1965). *Fuzzy Sets*. Information and Control, 8(3), 338–353.
 - Ross, T. J. (2010). *Fuzzy Logic with Engineering Applications* (3rd ed.). Wiley.
 - scikit-fuzzy: https://scikit-fuzzy.readthedocs.io/
-
----
-
-**Status**: ✅ Completo e testado | **Última atualização**: 2026
