@@ -10,7 +10,7 @@
 
 | Nome | Matrícula |
 |------|-----------|
-| [Bernardo Lins Bentes] | [24070315] |
+| Bernardo Lins Bentes | 24070315 |
 
 
 ---
