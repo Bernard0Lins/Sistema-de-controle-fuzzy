@@ -1,10 +1,6 @@
 """
 Interface CLI para o Sistema de Controle Fuzzy de Fadiga de Personagem
 
-Disciplina: Inteligência Artificial e Computacional
-Semestre: 01/2026
-Turma: CC5MA
-
 Menu interativo com as opções:
 1. Calcular penalidade de ataque do personagem
 2. Visualizar gráficos das funções de pertinência

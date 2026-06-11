@@ -4,9 +4,6 @@ Experimentos e Análise de Resultados
 Executa o sistema fuzzy contra um conjunto de cenários de teste
 e gera tabelas e gráficos comparativos.
 
-Disciplina: Inteligência Artificial e Computacional
-Semestre: 01/2026
-Turma: CC5MA
 """
 
 import pandas as pd

@@ -2,9 +2,6 @@
 Sistema de Controle Fuzzy para Avaliação de Fadiga de Personagem
 Abordagem Mamdani com defuzzificação por centróide
 
-Autor: Sistema IA Acadêmico
-Data: 2026
-Disciplina: Inteligência Artificial e Computacional
 """
 
 import numpy as np
