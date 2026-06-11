@@ -3,9 +3,6 @@ Configuração pytest para o projeto Sistema Fuzzy de Fadiga de Personagem
 
 Este arquivo configura fixtures e comportamentos globais para os testes automatizados.
 
-Autor: Sistema IA Acadêmico
-Data: 2026
-Disciplina: Inteligência Artificial e Computacional
 """
 
 import pytest
